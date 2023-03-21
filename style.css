@@ -474,7 +474,11 @@ svg:not(:host).svg-inline--fa, svg:not(:root).svg-inline--fa {
         padding: 0px 0px 0px 41px;
     }
     .card{
-        margin-left: 21%;
+        margin-left: 11%;
+        margin-top: 30px;
+    }
+    .cardclone{
+        width: 23rem !important;
     }
     .bgnine{
         min-height: 500px;
@@ -490,5 +494,23 @@ svg:not(:host).svg-inline--fa, svg:not(:root).svg-inline--fa {
     }
     .bgimg{
         min-height: 530px;
+    }
+    .tagpara3{
+        padding-left: 21%;
+    }
+    .tagpara{
+        padding-left: 21%;
+    }
+    .headtext{
+        font-size: 1.4375rem;
+    }
+    .btntenn{
+        font-size: 14px;
+    }
+    .headsecthree {
+        padding-left: 21%;
+    }
+    .parasecthree {
+        padding-left: 21%;
     }
 }
